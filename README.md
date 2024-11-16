@@ -2,7 +2,6 @@
 - 👀 I’m interested in Automation
 - 🌱 Busy with a Bachelor's in Computer Science
 - 💞️ I’m not really looking to colaborate on anything yet. I'm pretty sure my skills aren't at the point where I can contribute somthing usefull.
-- 📫 Don't know why you'd want to, but my Discord ID is #4848
 
 <!---
 GoGoGadgetGitHub/GoGoGadgetGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
